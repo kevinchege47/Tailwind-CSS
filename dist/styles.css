@@ -539,8 +539,16 @@ video {
   margin-bottom: 0.5rem;
 }
 
+.ml-4{
+  margin-left: 1rem;
+}
+
 .block{
   display: block;
+}
+
+.flex{
+  display: flex;
 }
 
 .table{
@@ -565,6 +573,18 @@ video {
 
 .resize{
   resize: both;
+}
+
+.justify-end{
+  justify-content: flex-end;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.justify-around{
+  justify-content: space-around;
 }
 
 .border{
